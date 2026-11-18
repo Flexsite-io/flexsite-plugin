@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+__MACOSX/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+node_modules/
