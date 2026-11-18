@@ -23,6 +23,6 @@
   ],
   "logo": "assets/logo.png",
   "skills": "./skills/",
-  "rules": ["./rules/flexsite.mdc"],
+  "rules": ["./rules/flexsite.md"],
   "mcpServers": "./mcp.json"
 }
