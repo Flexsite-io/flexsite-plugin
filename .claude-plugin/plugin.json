@@ -25,6 +25,9 @@
   ],
   "icon": "./assets/icon.png",
   "privacyPolicyUrl": "https://flexsite.io/privacy-policy",
+  "termsOfServiceUrl": "https://flexsite.io/terms",
+  "supportUrl": "https://flexsite.io/contact-us",
+  "documentationUrl": "https://help.flexsite.io/ai-agents/cursor-and-claude-code",
   "skills": "./skills/",
   "mcpServers": "./.mcp.json"
 }
