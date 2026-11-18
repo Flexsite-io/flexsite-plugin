@@ -1,0 +1,18 @@
+{
+  "name": "flexsite",
+  "owner": {
+    "name": "FlexSite",
+    "email": "contact@flexsite.io"
+  },
+  "metadata": {
+    "description": "FlexSite plugins for Claude Code: Drupal and WordPress hosting from your editor."
+  },
+  "plugins": [
+    {
+      "name": "flexsite",
+      "source": "./",
+      "description": "Create, run locally, deploy and migrate Drupal and WordPress sites on FlexSite.",
+      "version": "1.0.0"
+    }
+  ]
+}

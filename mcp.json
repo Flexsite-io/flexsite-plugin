@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "flexsite": {
+      "url": "https://agents.flexsite.io/mcp"
+    }
+  }
+}

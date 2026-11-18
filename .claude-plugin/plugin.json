@@ -1,0 +1,30 @@
+{
+  "name": "flexsite",
+  "displayName": "FlexSite",
+  "version": "1.0.0",
+  "description": "Host Drupal and WordPress sites on FlexSite from Claude Code: create a project, run it locally with DDEV or Lando, deploy with a git push, fix a failed pipeline, move an existing Drupal site, and edit Drupal content by asking.",
+  "author": {
+    "name": "FlexSite",
+    "email": "contact@flexsite.io",
+    "url": "https://flexsite.io"
+  },
+  "homepage": "https://flexsite.io",
+  "repository": "https://github.com/Flexsite-io/flexsite-plugin",
+  "license": "MIT",
+  "keywords": [
+    "flexsite",
+    "drupal",
+    "wordpress",
+    "drupal hosting",
+    "wordpress hosting",
+    "deploy",
+    "ddev",
+    "lando",
+    "drupal migration",
+    "local development"
+  ],
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://flexsite.io/privacy-policy",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
