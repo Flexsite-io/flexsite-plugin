@@ -27,7 +27,7 @@ Show it to the user like this, one line each, with a sentence they could say:
 - Make the same change on many sites: "Add a Privacy page to every dev site." I show you a dry run first.
 - Check health, deploys and backups: "Is my site healthy?", "Did the last deploy finish?", "When was the last database backup?"
 
-Add: health, deploy and backup questions also work from ChatGPT or Claude. Add the FlexSite connector `https://mcp.flexsite.io/mcp` there and sign in on the FlexSite page that opens.
+Add: health, deploy and backup questions also work from ChatGPT or Claude. Add the FlexSite connector `https://agents.flexsite.io/mcp` there and sign in on the FlexSite page that opens.
 
 For the health line use `get_project_status`, `list_project_issues`, `get_latest_deployment`, `get_deployment_status`, `list_database_backups` and `get_project_quality_metrics`.
 
